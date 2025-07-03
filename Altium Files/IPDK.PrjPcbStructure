@@ -1,0 +1,7 @@
+Record=TopLevelDocument|FileName=aux_power.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=aux_power.SchDoc|FileName=block_diagram.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=aux_power.SchDoc|FileName=core_power.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=aux_power.SchDoc|FileName=DRAM.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=aux_power.SchDoc|FileName=fpga_connectors.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=aux_power.SchDoc|FileName=Lattice_FPGA.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=aux_power.SchDoc|FileName=pi_connectors.SchDoc|SheetNumber=1
