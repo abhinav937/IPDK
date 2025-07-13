@@ -1,0 +1,55 @@
+# Altium temporary files
+*.Zip
+History/
+__Previews/
+*.PcbDoc.htm
+*.bak
+*.bck
+*.kicad_pcb-bak
+*.sch-bak
+*~_autosave-*
+*.tmp
+*-save.pro
+*-save.kicad_pcb
+fp-info-cache
+
+# Netlist files (exported from Eeschema)
+*.net
+
+# Autorouter files (exported from Pcbnew)
+*.dsn
+*.ses
+
+# Build artifacts
+firmware/build/*
+software/build/*
+fab/gerbers/*
+fab/bom/*
+fab/assembly/*
+
+# Keep .gitkeep files
+!firmware/build/.gitkeep
+!software/build/.gitkeep
+!fab/gerbers/.gitkeep
+!fab/bom/.gitkeep
+!fab/assembly/.gitkeep
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Backup files
+*.bkp
+*.backup 
